@@ -1,6 +1,9 @@
-[
-  {
-    "name": "Mubi",
-    "url": "https://github.com/Edaja/icon/raw/refs/heads/main/Collection/Mubi"
-  }
-  
+{
+  "name": "JC",
+  "icons": [
+    {
+      "name": "Mubi",
+      "url": "https://github.com/Edaja/icon/raw/refs/heads/main/Collection/Mubi"
+    }
+  ]  
+}
