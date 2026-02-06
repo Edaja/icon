@@ -3,7 +3,7 @@
   "icons": [
     {
       "name": "Mubi",
-      "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/MUBI-logo.png"
+      "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/MUBI.png"
     },
     {
       "name": "X",
@@ -11,7 +11,11 @@
     },
     {
       "name": "Anime",
-      "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/demon-slayer.png"
+      "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/DEMON-SLAYER.png"
+    },
+    {
+      "name": "Disney+",
+      "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/DISNEY-PLUS.png"
     }
   ]  
 }
