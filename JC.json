@@ -10,12 +10,16 @@
       "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/X.png"
     },
     {
-      "name": "Anime",
+      "name": "Demon Slayer",
       "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/DEMON-SLAYER.png"
     },
     {
       "name": "Disney+",
       "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/DISNEY-PLUS.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/Edaja/icon/refs/heads/main/Collection/TIKTOK.png"
     }
   ]  
 }
