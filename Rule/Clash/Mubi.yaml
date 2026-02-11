@@ -1,1 +1,5 @@
-yaml
+payload:
+  - DOMAIN-SUFFIX,drmtoday.com
+  - DOMAIN-SUFFIX,litix.io
+  - DOMAIN-SUFFIX,mubi.com
+  - DOMAIN-SUFFIX,mubicdn.net
